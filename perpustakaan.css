@@ -1,0 +1,193 @@
+body {	  background: linear-gradient(to bottom, #d38312, #a83279);
+		font-family: Verdana, Arial, sans-serif; }
+	
+#wrapper {	margin: 0 auto;
+			width: 80%;
+			min-width: 960px; max-width: 1200px;
+			 background: linear-gradient(to left, #003973, #e5e5be);
+			color: #000066; }
+	
+header {	 background: linear-gradient(to left, #003973, #e5e5be);
+			color:  #00008B;
+			font-size: 120%;
+			margin-left: 50px;
+			padding: 10px 10px 10px 80px;
+			background-repeat: no-repeat;
+			background-image: 	url(logo.png);}
+	
+header a {	text-decoration: none; }
+	
+header a:hover {	color: #FFA500; }
+	
+h1 { 	margin-bottom: 20px; 
+		margin-top: 10px; 
+		margin-left: 75px; }
+	
+h2 { 	text-shadow: 1px 1px 0 #ccc;
+		font-family: arial, sans-serif;	}
+	
+h3 { 	text-shadow: 1px 1px 0 #ccc; }
+
+p { 	text-align: justify;
+		text-indent: 0.5in; }
+
+nav { 	float: left;
+		width: 200px;
+		font-weight: bold;
+		letter-spacing: 0.1em; }
+	
+nav ul { 	list-style-type: none; 
+			margin: 0; 
+			padding: 0; }
+
+nav a { 	text-decoration: none;
+			padding: 20px;
+			display: block;
+			background-color: #00008B;
+			border-bottom: 1px solid #FFFFFF; }
+
+nav a:link { 	color: #FFFFFF; }
+nav a:visited { color: #EAEAEA; }
+nav a:hover { 	color: #00008B ;
+				background-color:  #FFA500; }
+
+.hover {	background-color: #FFA500;
+			color:	#00008B;}				
+				
+main { 	background-color: #FFFFFF;
+		color: #000000;
+		padding: 10px 20px; display: block;
+		overflow: auto; }
+
+#image {	display: inline-block;
+			width: 160px;
+			padding-bottom: 10px;
+			margin: 10px;
+			background-color: #c2c2d6;
+			text-align: center;
+			font-style: italic;
+			font-family: Georgia, serif;
+			text-shadow :1px 1px 4px white;}
+	
+div { 	background-color: #F3F1BF;
+		overflow: auto;
+		width: 100%;	}
+		
+dt { 	 letter-spacing: 1px;
+		font-weight: bold;
+		color: #00008B ;
+		text-shadow: 1px 1px 0 #ccc;
+		font-family: arial, sans-serif; }		
+		
+#floatright {	float: right;
+				margin: 10px; }
+				
+#floatleft {	float: left;
+				margin: 10px; }
+
+	
+footer { 	font-size: 90%;
+			text-align: left;
+			padding: 10px;
+			margin-left: 200px;
+			background: linear-gradient(to left, #0575e6, #021b79);
+			color: #FFFFFF;
+			clear: both;}	
+			
+footer a:link {	color: #FFFFFF; }
+footer a:hover { color: #FFA500; }
+		font-family: Verdana, Arial, sans-serif; }
+	
+#wrapper {	margin: 0 auto;
+			width: 80%;
+			min-width: 960px; max-width: 1200px;
+			 background: linear-gradient(to left, #003973, #e5e5be);
+			color: #000066; }
+	
+header {	 background: linear-gradient(to left, #003973, #e5e5be);
+			color:  #000080;
+			font-size: 120%;
+			margin-left: 50px;
+			padding: 10px 10px 10px 80px;
+			background-repeat: no-repeat;
+			background-image: 	url(logo.png);}
+	
+header a {	text-decoration: none; }
+	
+header a:hover {	color: #FFA500; }
+	
+h1 { 	margin-bottom: 20px; 
+		margin-top: 10px; 
+		margin-left: 75px; }
+	
+h2 { 	text-shadow: 1px 1px 0 #ccc;
+		font-family: arial, sans-serif;	}
+	
+h3 { 	text-shadow: 1px 1px 0 #ccc; }
+
+p { 	text-align: justify;
+		text-indent: 0.5in; }
+
+nav { 	float: left;
+		width: 200px;
+		font-weight: bold;
+		letter-spacing: 0em; }
+	
+nav ul { 	list-style-type: none; 
+			margin: 0; 
+			padding: 0; }
+
+nav a { 	text-decoration: none;
+			padding: 20px;
+			display: block;
+			background-color: #00008B;
+			border-bottom: 1px solid #FFFFFF; }
+
+nav a:link { 	color: #FFFFFF; }
+nav a:visited { color: #EAEAEA; }
+nav a:hover { 	color: #00008B ;
+				background-color:  #FFA500; }
+	
+main { 	background-color: #FFFFFF;
+		color: #000000;
+		padding: 10px 20px; display: block;
+		overflow: auto; }
+
+#image {	display: inline-block;
+			width: 160px;
+			padding-bottom: 10px;
+			margin: 10px;
+			background-color: #c2c2d6;
+			text-align: center;
+			font-style: italic;
+			font-family: Georgia, serif;
+			text-shadow :1px 1px 4px white;}
+	
+div { 	background-color: #F3F1BF;
+		overflow: auto;
+		width: 100%;	}
+		
+dt { 	 letter-spacing: 1px;
+		font-weight: bold;
+		color: #00008B ;
+		text-shadow: 1px 1px 0 #ccc;
+		font-family: arial, sans-serif; }		
+		
+#floatright {	float: right;
+				margin: 10px; }
+			
+				
+#floatleft {	float: left;
+				margin: 10px; }
+
+	
+footer { 	font-size: 90%;
+			text-align: left;
+			padding: 10px;
+			margin-left: 200px;
+			background: linear-gradient(to left, #0575e6, #021b79);
+			color: #FFFFFF;
+			clear: both;}	
+			
+footer a:link {	color: #FFFFFF; }
+footer a:hover { color: #FFA500; }
